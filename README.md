@@ -4,11 +4,9 @@
 
 Go语言页有`image`库，可以方便的处理2D图像，于是我复现了其中几张图。
 
-![first](https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/first.png)
-
-![second](https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/second.png)
-
-![third](https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/third.png)
+<center class="half">
+    <img src="https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/first.png" width="200"/><img src="https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/second.png" width="200"/><img src="https://raw.githubusercontent.com/DOVECYJ/funny_pics/master/pictures/third.png" width="200"/>
+</center>
 
 你需要做的是实现三个返回RGB值的函数，然后就可画出图像了。
 
